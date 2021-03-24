@@ -14,3 +14,7 @@ cow
 kitty
 
 green
+blue
+red
+
+mom
